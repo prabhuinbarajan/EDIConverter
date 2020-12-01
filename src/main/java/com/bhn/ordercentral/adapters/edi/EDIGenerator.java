@@ -12,6 +12,9 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Random;
 
+
+//https://www.dandh.com/docs/EDI_Guides%5CCustomer%5CImplementation%20Guide%20855,%204010.pdf
+
 public class EDIGenerator {
     public static final String BHN_INTERCHANGE_ID = "BHNETWORK";
     public static final String TARGET_INTERCHANGE_ID = "TGTDVS";
